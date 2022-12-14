@@ -184,7 +184,7 @@ for (let index = 0; index < 8; index++) {
 
   // button
   let btn = document.createElement("button");
-  btn.style.background = "green";
+  btn.style.background = "rgb(66, 130, 127)";
   btn.style.color = "white";
   btn.innerText = "Buy Now";
   btn.style.padding = "5px 15px";
